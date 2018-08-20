@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-ENV VERSION="0.1.0"
+ENV VERSION="0.1.1"
 
 RUN apk update && apk upgrade
 
@@ -26,5 +26,3 @@ COPY entrypoint.sh /
 RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
-
-#CMD ["rxrx"]

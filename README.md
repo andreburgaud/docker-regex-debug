@@ -17,7 +17,7 @@ $ docker pull andreburgaud/regex-debug
 ## Interactive Debugger
 
 ```
-$ docker run --rm -it regexd
+$ docker run --rm -it andreburgaud/regex-debug
 ```
 
 ## Display number of steps
