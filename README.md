@@ -1,6 +1,6 @@
 # Docker Regex Debug
 
-Docker image to interaction with the Perl Regexp::Debugger module (https://metacpan.org/pod/Regexp::Debugger) authored by Damian Conway (http://blogs.perl.org/users/damian_conway/).
+Docker image to interact with the Perl Regexp::Debugger module (https://metacpan.org/pod/Regexp::Debugger) authored by Damian Conway (http://blogs.perl.org/users/damian_conway/).
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/andreburgaud/regex-debug.svg)](https://hub.docker.com/r/andreburgaud/regex-debug)
 [![Docker Automated Build](https://img.shields.io/docker/automated/andreburgaud/regex-debug.svg)](https://hub.docker.com/r/andreburgaud/regex-debug)
